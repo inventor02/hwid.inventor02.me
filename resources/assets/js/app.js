@@ -1,1 +1,1 @@
-// Nothing to see here, boys.
+require("materialize-css");
