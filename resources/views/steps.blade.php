@@ -39,7 +39,8 @@
                         </span>
 
                         <p>
-                            For the "Reason", select <code>Requested by staff</code> and enter <code>{{ $uuid }}</code> as your UUID.
+                            For the "Reason", select <code>Requested by staff</code> and enter <code>{{ $uuid }}</code>
+                            as your UUID.
                         </p>
                     </div>
                 </div>
