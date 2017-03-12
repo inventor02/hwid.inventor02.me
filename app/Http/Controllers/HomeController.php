@@ -13,4 +13,8 @@ class HomeController extends Controller
     public function info() {
         return view("about");
     }
+
+    public function license() {
+        return view("license");
+    }
 }

@@ -13,3 +13,6 @@
 
 Route::get('/', "HomeController@index");
 Route::get("/about", "HomeController@info");
+Route::get("/license", "HomeController@license");
+Route::get("/go", "FormController@index");
+Route::post("/go", "FormController@submit");
